@@ -5,10 +5,10 @@ folder having poc on jenkins api such as
 a.jenkinsapi
 b.wfapi
 
-#jenkins_pipeline_jenkinsfile_poc
+# jenkins_pipeline_jenkinsfile_poc
 folder having jenkins pipeline jenkinsfile declarative script poc
 
-#flasher_jenkins_job_poc
+# flasher_jenkins_job_poc
 folder having poc on 
 a.yaml file having data in dictonary form
 b.python file ,which is trigger by one jenkins job ,calling a script and sendin yaml file data to script as parameter
