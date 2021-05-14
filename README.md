@@ -8,6 +8,11 @@
 # jenkins_pipeline_jenkinsfile_poc
 ### folder having jenkins pipeline jenkinsfile declarative script poc.
 
+# jenkins_website_poc
+### folder having poc on
+#### a. trigger a jenkins job by clicking on webpage button
+#### b. Sending job parameter by post or get method after clicking on button
+
 # flasher_jenkins_job_poc
 ### folder having poc on. 
 #### a. yaml file having data in dictonary form.
