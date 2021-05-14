@@ -1,0 +1,16 @@
+# A product detail
+asterix:
+  serial-number: asterix_serial_number
+  hardware_number: asterix_hardware_number
+  product_directory_path: asterix_product_directory_path
+
+t2k:
+  serial-number: t2k_serial_number
+  hardware_number: t2k_hardware_number
+  product_directory_path: t2k_product_directory_path
+
+avdxp:
+  serial-number: avdxp_serial_number
+  hardware_number: avdxp_hardware_number
+  product_directory_path: avdxp_product_directory_path
+
